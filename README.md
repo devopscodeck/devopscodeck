@@ -18,6 +18,7 @@ Outside the professional sphere, my passion takes a unique form: developing open
 - ![Twitter Badge]()
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devopscodeck&theme=neon&hide_border=false&include_all_commits=false&count_private=true" width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopscodeck&theme=neon&hide_border=false" width="400px" />
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devopscodeck&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devopscodeck&show_icons=true&line_height=33&count_private=true&theme=merko" alt="devopscodeck's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopscodeck&&hide=cmake,javascript,html,css,ags%20script,gsc&langs_count=4&line_height=35&theme=merko" alt="devopscodeck's Most Used Languages" />
+</p>
