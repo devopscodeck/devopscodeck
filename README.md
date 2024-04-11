@@ -16,6 +16,7 @@ Outside the professional sphere, my passion takes a unique form: developing open
 ### ☁️ Clouds 
 
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </br>
@@ -23,7 +24,9 @@ Outside the professional sphere, my passion takes a unique form: developing open
 ### 🧰 Tools 
 
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
 
@@ -33,9 +36,13 @@ Outside the professional sphere, my passion takes a unique form: developing open
 ### 📜 Languages 
 
 <img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
+
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 </br>
@@ -44,9 +51,9 @@ Outside the professional sphere, my passion takes a unique form: developing open
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/282bd9ef-b410-473b-ab35-91cdcc00fea3 "AWS Certified Cloud Practitioner")
+
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0a089b91-cfd8-4f01-bf0f-b47239e87025 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
-
 
 </br>
 
