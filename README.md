@@ -12,10 +12,46 @@ In the realm of professional development, I have also been a "content creator," 
 
 Outside the professional sphere, my passion takes a unique form: developing open-source tools with a focus on security and participating in CTF (Capture The Flag) championships. This venture not only sharpens my technical skills but also provides a platform where I can contribute to the community, bridging the gap between security and DevOps in a manner that is both educational and engaging.
 
-# 🌐 Socials:
-- ![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/devopscodeck)
-- ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/devopscodeck)
-- ![Twitter Badge]()
+
+### ☁️ Clouds 
+
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+</br>
+
+### 🧰 Tools 
+
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+
+
+
+</br>
+
+### 📜 Languages 
+
+<img align="left" alt="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+
+</br>
+
+### 🎓 Certifications
+
+<!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/282bd9ef-b410-473b-ab35-91cdcc00fea3 "AWS Certified Cloud Practitioner")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0a089b91-cfd8-4f01-bf0f-b47239e87025 "Microsoft Certified: Azure Fundamentals")
+<!--END_SECTION:badges-->
+
+
+</br>
+
+
+
 
 # 📊 GitHub Stats:
 <p align="center">
