@@ -15,11 +15,14 @@ Outside the professional sphere, my passion takes a unique form: developing open
 
 ### ☁️ Clouds 
 
+
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </br>
+
+
 
 ### 🧰 Tools 
 
@@ -32,6 +35,8 @@ Outside the professional sphere, my passion takes a unique form: developing open
 
 
 </br>
+
+
 
 ### 📜 Languages 
 
@@ -46,6 +51,9 @@ Outside the professional sphere, my passion takes a unique form: developing open
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 </br>
+
+
+
 
 ### 🎓 Certifications
 
