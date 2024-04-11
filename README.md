@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm devopscodeck (or Sierra Curupira), devops engineer and tech enthusiast. I currently work as a DevSecOps Engineer.  
+I'm Sierra, devops engineer and tech enthusiast. I currently work as a DevSecOps Engineer.  
 With over 6 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
