@@ -59,10 +59,7 @@ Outside the professional sphere, my passion takes a unique form: developing open
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0a089b91-cfd8-4f01-bf0f-b47239e87025 "Microsoft Certified: Azure Fundamentals")
 
-[![GitLab Associate](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/earner/earned/badge/1f87a699-3766-4ef1-8b3e-4645ec5ac274 "GitLab Associate")
-
-[![GremLin: Caos Engineer](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credential.net/a8cef1f2-403d-46a2-a887-721e8d3018e8#gs.7b5ehg "GremLin: Caos Engineer")
-
+[![GitLab Associate](https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png)](https://www.credly.com/earner/earned/badge/1f87a699-3766-4ef1-8b3e-4645ec5ac274 "GitLab Associate: GitLab Associate")
 
 <!--END_SECTION:badges-->
 
