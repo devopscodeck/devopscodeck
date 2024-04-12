@@ -8,8 +8,6 @@ Driven by a passion for delivering secure, scalable, and efficient software, I s
 
 Throughout my professional journey, I have assumed the role of DevSecOps Technical Lead. In this capacity, my technical acumen has been crucial in guiding teams through the complexities of modern software delivery. I have focused not only on automating and securing workflows but also on fulfilling leadership responsibilities, providing strategic oversight, and ensuring that projects are executed in a timely and secure manner.
 
-In the realm of professional development, I have also been a "content creator," focusing on the nuances of DevSecOps.
-
 Outside the professional sphere, my passion takes a unique form: developing open-source tools with a focus on security and participating in CTF (Capture The Flag) championships. This venture not only sharpens my technical skills but also provides a platform where I can contribute to the community, bridging the gap between security and DevOps in a manner that is both educational and engaging.
 
 
